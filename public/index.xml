@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>start on Fabrique à projets </title>
+    <link>http://example.org/</link>
+    <description>Recent content in start on Fabrique à projets </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 13 Nov 2020 07:37:09 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecole</title>
+      <link>http://example.org/lecole/</link>
+      <pubDate>Tue, 17 Nov 2020 09:52:05 +0100</pubDate>
+      
+      <guid>http://example.org/lecole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/_contact/</link>
+      <pubDate>Tue, 17 Nov 2020 09:50:34 +0100</pubDate>
+      
+      <guid>http://example.org/_contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etudiants</title>
+      <link>http://example.org/etudiants/</link>
+      <pubDate>Tue, 17 Nov 2020 09:46:05 +0100</pubDate>
+      
+      <guid>http://example.org/etudiants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/projets/my-first-post/</link>
+      <pubDate>Fri, 13 Nov 2020 07:19:33 +0100</pubDate>
+      
+      <guid>http://example.org/projets/my-first-post/</guid>
+      <description>H1 level title This is a paragraph.
+This another paragraph with emphasis and strong emphasis.
+H2 level title H3 level title This is a hyperlink
+I like lists because they are:
+ fun   easy, and   fast.  Lists can also be ordered:
+ First element Second element   with an unordered sublist  And you can add tables:
+   Column 1 Column 2 Column 3     I like tables   This is content    </description>
+    </item>
+    
+  </channel>
+</rss>

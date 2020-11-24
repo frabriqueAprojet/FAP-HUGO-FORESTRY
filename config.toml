@@ -1,0 +1,120 @@
+baseURL = "http://example.org/"
+languageCode = "fr-fr"
+theme = "fapThème"
+[[menu.main]]
+
+  name = "L'école"
+  url = "https://normandiewebschool.fr/"
+  weight = 1
+  
+[[menu.main]]
+name = "Les projets"
+url = "/pages/projets"
+weight = 2
+[[menu.main]]
+name = "Les étudiants"
+url = "/pages/Etudiants"
+weight = 3
+[[menu.main]]
+name = "Contact"
+url = "/pages/Contact"
+weight = 4
+[[menu.nav]]
+name = "Tout"
+url = "/pages/Lecole"
+weight = 1
+[[menu.nav]]
+name = "En cours"
+url = "/pages/Lecole"
+weight = 2
+[[menu.nav]]
+name = "Les plus récents"
+url = "/pages/Lecole"
+weight = 3
+[[menu.nav]]
+name = "Les plus anciens"
+url = "/pages/projets"
+weight = 4
+[[menu.nav]]
+name = "Cette année"
+url = "/pages/Etudiants"
+weight = 5
+[[menu.nav]]
+
+  name = "Année précédentes"
+  url = "/pages/Contact"
+  weight = 6
+
+
+
+
+
+[[menu.navetudiants]]
+  name = "Tout"
+  url = "/pages/Lecole"
+  weight = 1
+
+[[menu.navetudiants]]
+  name = "Design"
+  url = "/pages/Lecole"
+  weight = 2
+
+[[menu.navetudiants]]
+  name = "Dévelopement"
+  url = "/pages/Lecole"
+  weight = 3
+
+[[menu.navetudiants]]
+  name = "Markéting"
+  url = "/pages/projets"
+  weight = 4
+
+[[menu.navetudiants]]
+  name = "1er année"
+  url = "/pages/Etudiants"
+  weight = 5
+
+[[menu.navetudiants]]
+  name = "2eme année"
+  url = "/pages/Contact"
+  weight = 6
+
+[[menu.navetudiants]]
+  name = "3eme année"
+  url = "/pages/Contact"
+  weight = 7
+
+
+
+
+
+[[menu.social]]
+name = "Facebook"
+pre = "<i class='fab fa-facebook-f'></i>"
+url = "https://fr-fr.facebook.com/normandiewebschool/"
+weight = 1
+[[menu.social]]
+name = "YouTube"
+pre = "<i class='fab fa-youtube'></i>"
+url = "https://www.youtube.com/channel/UCxmD0A_TGigvE0F4PLCikjA"
+weight = 5
+[[menu.social]]
+name = "Twitter"
+pre = "<i class='fab fa-twitter'></i>"
+url = "https://twitter.com/ndiewebschool?lang=fr"
+weight = 4
+[[menu.social]]
+name = "Linkedin"
+pre = "<i class='fab fa-linkedin-in'></i>"
+url = "https://fr.linkedin.com/school/normandiewebschool/"
+weight = 2
+[[menu.social]]
+name = "Instagram"
+pre = "<i class='fab fa-instagram'></i>"
+url = "https://www.instagram.com/explore/locations/1834112433536417/france/le-petit-quevilly/normandie-web-school/"
+weight = 3
+[params]
+author = "Janne Kemppainen"
+authorImage = "/img/abeille.png"
+description = "My First Post"
+images = "/img/imgprojet.png"

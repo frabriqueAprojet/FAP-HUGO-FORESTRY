@@ -1,0 +1,114 @@
+
+
+
+{{ define "main" }}
+
+
+<div class="container">
+    
+    <div class="section">
+        <div class='wallpaper'>
+            <img src="img/wall.png" alt="wallpaper NWS" />
+        </div>
+        <div class="content">
+ <!------------------------------------------------------------------------------------------------------->  
+
+            <div class="sectionprojet">
+                <h2 class="white">Que font les étudiants au sein de notre école?</h2>
+                <p style= color:#00a5a5>Voici la globalité des projets conceptionner par nos étudiants </p>
+                <h3 style= color:#fec800 >Les plus récents</h3>
+            <div id="myCarousel" class="carousel slide">
+                    <div class="carousel-inner">
+                        <div class="carousel">
+                            <div class="item active">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <img class="d-block w-10" src="img/imgprojet.png" alt="First slide">
+                                    </div>
+                                    <div class="col-sm-4">
+                                        {{- block "My First Post" . }}{{- end }}
+                                       
+                                        <img class="d-block w-10" src="img/abeille.png" alt="First slide">
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <img class="d-block w-10" src="img/juice.png" alt="First slide">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+         </div>
+    <!------------------------------------------------------------------------------------------------------->    
+
+    <div class="content2">
+        <div class="sectionprojet">
+        <h3 style= color:#e94a34>Cet année</h3>
+            <div id="myCarousel" class="carousel slide">
+                <div class="carousel-inner">
+                    <div class="carousel">
+                        <div class="item active">
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <img class="d-block w-10" src="img/social.png" alt="First slide">
+                                </div>
+                                <div class="col-sm-4">
+                                    <img class="d-block w-10" src="img/work.png" alt="First slide">
+                                </div>
+                                <div class="col-sm-4">
+                                    <img class="d-block w-10" src="img/phone.png" alt="First slide">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+ <!------------------------------------------------------------------------------------------------------->  
+
+<div class="content">
+    <div class="sectionprojet">
+    <h3 style= color:#fec800 >Projets de 2018 à 2019</h3>
+    <div id="myCarousel" class="carousel slide">
+        <div class="carousel-inner">
+            <div class="carousel">
+                <div class="item active">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <img class="d-block w-10" src="img/imgprojet.png" alt="First slide">
+                        </div>
+                        <div class="col-sm-4">
+                            <img class="d-block w-10" src="img/abeille.png" alt="First slide">
+                        </div>
+                        <div class="col-sm-4">
+                            <img class="d-block w-10" src="img/juice.png" alt="First slide">
+                         </div>
+                         
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content2">
+    <div class="sectionprojetsuite">
+        <div class="carousel">
+            <h4>Vous voulez en découvrir davantage?</h4>
+            <button class="button3" ><a href="#">Voir tous les projets<i class="fas fa-arrow-circle-right"></i></a></button>           
+        </div>     
+    </div>
+    <div class="sectionprojetsuite">
+        <div class="carousel">
+            <img src="img/tirets.png" alt="tiret NWS" />   
+            <h4>Nos partenaires:</h4>
+            <img src="img/partenaire.png" alt="partenaire NWS" />          
+        </div>     
+    </div>
+</div> 
+</div>
+
+ <!------------------------------------------------------------------------------------------------------->
+
+     
+{{ end }}

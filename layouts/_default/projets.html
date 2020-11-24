@@ -1,0 +1,208 @@
+{{ define "main" }}
+
+<div class="container">
+    
+    <div class="content">
+        <p>les projets</p>
+        <div class="containervedetteprojet">
+          <div ><img class="imgpro" src="../../img/projets/StreamEsport/logo.png" alt="wallpaper NWS" /></div>
+          <div class="contact">
+               <ul class="projetvedette">
+                   <li><h3 class="titlefooter" style= color:white>StreamEsport</h3></li>
+                   <li style= color:#00a5a5 >création d’une chaine twitch basée sur le divertissement. C’est une activité qui repose sur l’activité régulière des membres qui se partagent la chaîne en produisant différents contenus, plus particulièrement du jeu vidéo.</li>
+                   
+                   <li><button class="buttonproject"><a href="#">En savoir plus</a></button></li>
+                   
+               </ul>
+          </div>
+         
+      </div>
+      
+       <!---<ul style="display: inline-flex; justify-content: space-between;" >
+          <li><img class="imgpro" src="/../img/imgprojetspage.png" alt="projet img" /></li>
+          <li><p style="color: white;">Eius populus ab incunabulis primis ad usque pueritiae tempus extremum, quod annis circumcluditur fere trecentis, circummurana pertulit bella, deinde aetatem ingressus adultam post multiplices bellorum aerumnas Alpes transcendit et fretum, in iuvenem erectus et virum ex omni plaga quam orbis ambit inmensus, reportavit laureas et triumphos, iamque vergens in senium et nomine solo aliquotiens vincens ad tranquilliora vitae discessit.</p></li>
+          <li></li>
+        </ul>
+        <button><a href="#">En savoir plus</a></button>-->
+    
+        <nav class="navbarprojetpage" role="navigation">
+          <div class="container">
+              <div class="navbar-brand">
+                  <a href="/" title="home" class="navbar-item">
+                      <span class="logo"><!----<h1>{{ .Site.Title }}</h1>-----></span>
+                  </a>
+                  
+                  <a role="button" class="navbar-burger" aria-label="menuprojet" aria-expanded="false">
+                      <span aria-hidden="true"></span>
+                      <span aria-hidden="true"></span>
+                      <span aria-hidden="true"></span>
+                  </a>
+              </div>
+              <div class="navbar-menu">
+                  <div class="navbar-start">
+                      {{ range .Site.Menus.nav }}
+                      <a href="{{ .URL }}" class="navbar-item">{{ .Name }}</a>
+                      {{ end }}
+                  </div>
+                  
+              </div>
+          </div>
+      </nav>
+    <!----<div >
+      <ul class="projetnavbar"> 
+        <li>Tout</li>
+        <li>En cours</li>
+        <li>Les plus récents</li>
+        <li>Les plus anciens</li>
+        <li>Cette année</li>
+        <li>Années préédentes</li>
+      </ul>
+    </di>
+    --->
+    <div class="sectionprojet">
+      <div id="myCarousel" class="carousel slide">
+          <div class="carousel-inner">
+              <div class="carousel">
+                  <div class="item active">
+                      <div class="row">
+                           <div class="col-sm-4">
+                                  <img class="d-block w-10" src="/../../img/projets/Bureau des occasions/IMAGEBDO1.png" alt="First slide">
+                             </div>
+                             <div class="col-sm-4">
+                                  {{- block "My First Post" . }}{{- end }}
+                                
+                                  <img class="d-block w-10" src="../../img/projets/NWE (Normandie Web Events)/nwe.png" alt="First slide">
+                             </div>
+                               <div class="col-sm-4">
+                                  <img class="d-block w-10" src="../../img/projets/KFC (Karting Fraternit‚ Club)/imageKFC.png" alt="First slide">
+                                </div>
+                             </div>
+                        </div>
+                      </div>
+                  </div>
+               </div>
+           </div>
+           <div class="sectionprojet">
+            <div id="myCarousel" class="carousel slide">
+                <div class="carousel-inner">
+                    <div class="carousel">
+                        <div class="item active">
+                            <div class="row">
+                                 <div class="col-sm-4">
+                                        <img class="d-block w-10" src="/../../img/projets/Bureau des occasions/IMAGEBDO1.png" alt="First slide">
+                                   </div>
+                                   <div class="col-sm-4">
+                                        {{- block "My First Post" . }}{{- end }}
+                                      
+                                        <img class="d-block w-10" src="../../img/projets/NWE (Normandie Web Events)/nwe.png" alt="First slide">
+                                   </div>
+                                     <div class="col-sm-4">
+                                        <img class="d-block w-10" src="../../img/projets/KFC (Karting Fraternit‚ Club)/imageKFC.png" alt="First slide">
+                                      </div>
+                                   </div>
+                              </div>
+                            </div>
+                        </div>
+                     </div>
+                 </div>
+                 <div class="sectionprojet">
+                  <div id="myCarousel" class="carousel slide">
+                      <div class="carousel-inner">
+                          <div class="carousel">
+                              <div class="item active">
+                                  <div class="row">
+                                       <div class="col-sm-4">
+                                              <img class="d-block w-10" src="/../../img/projets/Bureau des occasions/IMAGEBDO1.png" alt="First slide">
+                                         </div>
+                                         <div class="col-sm-4">
+                                              {{- block "My First Post" . }}{{- end }}
+                                            
+                                              <img class="d-block w-10" src="../../img/projets/NWE (Normandie Web Events)/nwe.png" alt="First slide">
+                                         </div>
+                                           <div class="col-sm-4">
+                                              <img class="d-block w-10" src="../../img/projets/KFC (Karting Fraternit‚ Club)/imageKFC.png" alt="First slide">
+                                            </div>
+                                         </div>
+                                    </div>
+                                  </div>
+                              </div>
+                           </div>
+                       </div>
+                       <div class="sectionprojet">
+                        <div id="myCarousel" class="carousel slide">
+                            <div class="carousel-inner">
+                                <div class="carousel">
+                                    <div class="item active">
+                                        <div class="row">
+                                             <div class="col-sm-4">
+                                                    <img class="d-block w-10" src="/../../img/projets/Bureau des occasions/IMAGEBDO1.png" alt="First slide">
+                                               </div>
+                                               <div class="col-sm-4">
+                                                    {{- block "My First Post" . }}{{- end }}
+                                                  
+                                                    <img class="d-block w-10" src="../../img/projets/NWE (Normandie Web Events)/nwe.png" alt="First slide">
+                                               </div>
+                                                 <div class="col-sm-4">
+                                                    <img class="d-block w-10" src="../../img/projets/KFC (Karting Fraternit‚ Club)/imageKFC.png" alt="First slide">
+                                                  </div>
+                                               </div>
+                                          </div>
+                                        </div>
+                                    </div>
+                                 </div>
+                             </div>
+                             <div class="sectionprojet">
+                              <div id="myCarousel" class="carousel slide">
+                                  <div class="carousel-inner">
+                                      <div class="carousel">
+                                          <div class="item active">
+                                              <div class="row">
+                                                   <div class="col-sm-4">
+                                                          <img class="d-block w-10" src="/../../img/projets/Bureau des occasions/IMAGEBDO1.png" alt="First slide">
+                                                     </div>
+                                                     <div class="col-sm-4">
+                                                          {{- block "My First Post" . }}{{- end }}
+                                                        
+                                                          <img class="d-block w-10" src="../../img/projets/NWE (Normandie Web Events)/nwe.png" alt="First slide">
+                                                     </div>
+                                                       <div class="col-sm-4">
+                                                          <img class="d-block w-10" src="../../img/projets/KFC (Karting Fraternit‚ Club)/imageKFC.png" alt="First slide">
+                                                        </div>
+                                                     </div>
+                                                </div>
+                                              </div>
+                                          </div>
+                                       </div>
+                                   </div>
+                                   <div class="sectionprojet">
+                                    <div id="myCarousel" class="carousel slide">
+                                        <div class="carousel-inner">
+                                            <div class="carousel">
+                                                <div class="item active">
+                                                    <div class="row">
+                                                         <div class="col-sm-4">
+                                                                <img class="d-block w-10" src="/../../img/projets/Bureau des occasions/IMAGEBDO1.png" alt="First slide">
+                                                           </div>
+                                                           <div class="col-sm-4">
+                                                                {{- block "My First Post" . }}{{- end }}
+                                                              
+                                                                <img class="d-block w-10" src="../../img/projets/NWE (Normandie Web Events)/nwe.png" alt="First slide">
+                                                           </div>
+                                                             <div class="col-sm-4">
+                                                                <img class="d-block w-10" src="../../img/projets/KFC (Karting Fraternit‚ Club)/imageKFC.png" alt="First slide">
+                                                              </div>
+                                                           </div>
+                                                      </div>
+                                                    </div>
+                                                </div>
+                                             </div>
+                                         </div>
+  </div>
+  
+</div>
+ 
+
+ <!------------------------------------------------------------------------------------------------------->
+
+     
+{{ end }}

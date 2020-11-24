@@ -1,0 +1,318 @@
+/*.logo h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+}*/
+.title-image {
+    padding-bottom: 2em;
+}
+main
+{
+    width: 100%;
+    flex: 1;
+    position: center;
+   
+}
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+/*_________________________________________________________________
+
+---------------------------HEADER----------------------------------
+__________________________________________________________________*/
+.logo
+{
+    float: left;
+    width: 7.5em;
+    margin-left: 10%;
+    margin-top: 1%;
+
+}
+.container
+{
+    margin-top: 0%;
+}
+.firstline
+{
+    margin-right: 10%;
+    float: right;
+}
+.navbar
+{
+    float: right;
+    margin-right: 10%;
+    margin-top: 1%;
+}
+.button1
+{
+    background-color: #00a5a5;
+    font-size: small;
+    border: none;
+}
+
+.button2
+{
+    background-color: #fec800;
+    font-size: small;
+    border: none;
+}
+/*_________________________________________________________________
+
+---------------------------ENDHEADER------------------------------
+__________________________________________________________________*/
+
+.wallpaper
+{
+    margin-top: 0%;
+ 
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.content
+{
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
+}
+.sectionprojet
+{
+    width: 90%;
+    margin: auto;
+}
+.content2
+{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.projetslide
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.h2
+{
+
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h3
+{
+    text-decoration: underline white;
+    
+}
+
+.carousel 
+{
+    margin-bottom: 5%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.sectionprojetsuite
+{
+    text-align: center;
+   
+    margin-left: auto;
+    margin-right: auto;
+}
+.button3
+{
+    background-color: #00a5a5;
+    font-size: 2em;
+    border: none;
+    
+}
+.button3 a{
+    color: white;
+}
+/*_________________________________________________________________
+
+---------------------------ALLPROJETSMAIN------------------------------
+__________________________________________________________________*/
+.containervedetteprojet
+{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between ;
+    
+}
+.projetvedette li
+{
+    list-style: none;
+}
+.imgpro
+{
+    
+    /*height: 10em;*/
+    width: 100em;
+}
+
+.buttonproject
+{
+    border-radius: 10px;
+    background-color: white;
+    font-size: small;
+    border: none;
+}
+.buttonproject a
+{
+    color: black
+}
+.navbarprojetpage
+{
+    display: inline-flex;
+    justify-content: space-around;
+position: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    background-color: black;
+}
+.navbarprojetpage a{
+    color: white;
+}
+.projetnavbar
+{
+    display: inline-flex; justify-content: space-between;color:white; list-style: none;
+}
+/*_________________________________________________________________
+
+---------------------------ENDPROJETSMAIN------------------------------
+__________________________________________________________________*/
+/*_________________________________________________________________
+
+---------------------------EtudiantsMAIN------------------------------
+__________________________________________________________________*/
+.classe
+{
+    filter: contrast();
+}
+.navbaretudiantspage
+{
+    display: inline-flex;
+    justify-content: space-around;
+position: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+   
+}
+.navbaretudiantspage a{
+    color: black;
+}
+.etudiantsnavbar
+{
+    display: inline-flex; justify-content: space-between;color:white; list-style: none;
+}
+.navbaretudiants {
+    justify-content: space-between;
+    margin-right: auto;
+    margin-left: auto;
+}
+.imgtexte
+{
+    position:absolute;
+    top:40%; 
+    right: 0%;
+    left: 25%;
+    width:600px; 
+    height:400px; 
+    z-index:2;
+    font-size:100%
+}
+b{
+    color:#00a5a5;
+}
+/*_________________________________________________________________
+
+---------------------------FOOTER------------------------------
+__________________________________________________________________*/
+.footer
+{
+    background-color: #131313;
+}
+.containerfooter
+{
+
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between ;
+    
+}
+.lastcontainerfooter
+{
+    color: white;
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-right: auto;
+    margin-left: auto;
+}
+.nav-link
+{
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo1
+{
+    float: left;
+}
+
+.photo2
+{
+    float: right;
+}
+.footerline
+{
+    margin-top: 2%;
+    border-bottom:1px solid grey;
+}
+.copyright
+{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 40%;
+    margin-right: auto;
+    color:grey ;
+    font-size: small;
+}
+.icon
+{
+    color: #fec800;
+
+}
+.red {
+    color: red;
+    }
+.white{
+    color:white;
+}
+.titlefooter
+{
+    text-decoration: underline red;
+}
+
+/*_________________________________________________________________
+
+---------------------------ENDFOOTER------------------------------
+__________________________________________________________________*/
