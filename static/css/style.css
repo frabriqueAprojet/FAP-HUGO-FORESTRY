@@ -255,6 +255,7 @@ __________________________________________________________________*/
 }
 .items2
 {
+    width: 50%;
     float: right;
     background-color: #fec800;
 }
@@ -265,6 +266,7 @@ __________________________________________________________________*/
 }
 .items3
 {
+    width: 50%;
     float: right;
     background-color: #00a5a5;
 }
@@ -272,11 +274,12 @@ __________________________________________________________________*/
 {
     width: 50%;
     float: left;
+    background-color: #e94a34;
 }
 .items5
 {
-    float: right;
-    background-color: #e94a34;
+    width: 50%;
+    float: right;    
 }
 .contactsocialnav a
 {

@@ -1,6 +1,9 @@
 baseURL = "http://example.org/"
 languageCode = "fr-fr"
 theme = "fapThème"
+
+
+
 [[menu.main]]
 
   name = "L'école"
