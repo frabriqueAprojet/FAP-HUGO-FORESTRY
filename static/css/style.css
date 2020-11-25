@@ -241,6 +241,56 @@ b{
 }
 /*_________________________________________________________________
 
+---------------------------conatcthtml-----------------------------
+__________________________________________________________________*/
+.contactitems
+{
+    display: flex;
+}
+.items1
+{
+    width: 50%;
+    float: left;
+}
+.items2
+{
+    float: right;
+    background-color: #fec800;
+}
+.items4
+{
+    width: 50%;
+    float: left;
+}
+.items3
+{
+    float: right;
+    background-color: #00a5a5;
+}
+.items6
+{
+    width: 50%;
+    float: left;
+}
+.items5
+{
+    float: right;
+    background-color: #e94a34;
+}
+.contactsocialnav a
+{
+    display: inline-flex;
+    
+    
+}
+.iconcontact
+{
+   
+    color: red;
+}
+
+/*_________________________________________________________________
+
 ---------------------------FOOTER------------------------------
 __________________________________________________________________*/
 .footer
