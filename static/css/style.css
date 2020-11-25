@@ -246,6 +246,7 @@ __________________________________________________________________*/
 .contactitems
 {
     display: flex;
+    justify-content: center;
 }
 .items1
 {
@@ -303,7 +304,7 @@ __________________________________________________________________*/
     width: 70%;
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: flex-start;
     margin-left: auto;
     margin-right: auto;
     justify-content: space-between ;
