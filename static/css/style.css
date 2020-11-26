@@ -243,6 +243,13 @@ b{
 
 ---------------------------conatcthtml-----------------------------
 __________________________________________________________________*/
+.contact
+{
+    display: flex;
+    margin-top: 40%;
+    justify-content: center;
+    
+}
 .contactitems
 {
     display: flex;
@@ -281,9 +288,19 @@ __________________________________________________________________*/
     width: 50%;
     float: right;    
 }
+.content3
+{
+    display: flex;
+}
+.navbar-contact
+{
+    display: flex;
+    margin-left: auto;
+}
+
 .contactsocialnav a
 {
-    display: inline-flex;
+    
     
     
 }
