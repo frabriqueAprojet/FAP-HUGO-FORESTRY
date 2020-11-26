@@ -9,10 +9,9 @@
     <div class="items2">
       <div class="contact">
          <ul >
-            <!-----<li><h3 class="titlefooter" style= color:#00a5a5>Nous retrouver</h3></li>----->
             <li><i class="fas fa-map-marker-alt"></i></li>
-            <li style= color:grey>72 rue de la République</li>
-            <li style= color:grey>76140 Le Petit-Quevilly</li>
+            <li >72 rue de la République</li>
+            <li >76140 Le Petit-Quevilly</li>
         </ul>
       </div>
   </div>
@@ -24,7 +23,7 @@
       <div class="contact">
         <ul >
           
-          <li style= color:grey><i class="fas fa-envelope"></i>contact@normandiewebschool.fr</li>
+          <li ><i class="fas fa-envelope"></i>contact@normandiewebschool.fr</li>
           
       </ul>
       </div>
@@ -44,19 +43,43 @@
     <div class="contact">
       <ul >
          
-          <li style= color:grey><i class="fas fa-phone"></i>02 79 02 73 78</li>
+          <li ><i class="fas fa-phone"></i>02 79 02 73 78</li>
           </ul>
     </div>
   </div>
   </div>
   <!------------------------------------------------------------------------------------------------->
+  
+  <div class="contact">
+    <ul >
+        <li><h4>Nous rejoindre sur les réseaux</h4> </li>
+        <div class="navbar-contact">
+         
+            {{ range .Site.Menus.social }}
+            <a href="{{ .URL }}" class="navbar-item is-hidden-touch" title="{{ .Name }}"><span
+                    class="icon">{{ .Pre }}</span></a>
+            {{ end }}
 
-  <div class="content2">
+        </div>
+      
+    </ul>
+</div>
+
+<!-----------
+
+  <div class="content3">
     <div class="sectionprojetsuite">
         <div class="carousel">
-            <h4>Nous rejoindre sur les réseaux</h4>        
+            <h4>Nous rejoindre sur les réseaux</h4>   
+            <div class="contactsocialnav"></div>
+            {{ range .Site.Menus.social }}
+            <a href="{{ .URL }}" class="navbar-item is-hidden-touch" title="{{ .Name }}"><span
+                    class="iconcontact">{{ .Pre }}</span></a>
+            {{ end }}   
+          </div>       
         </div>     
     </div>
+    
     <div class="content2">
       <div class="sectionprojetsuite">
           <div class="carousel">
@@ -68,7 +91,8 @@
           </div>   
           </div>     
       </div>
-  
+     
+      ------------>
 </div> 
 </div>
 </div>
