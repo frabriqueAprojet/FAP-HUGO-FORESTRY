@@ -50,14 +50,14 @@
   </div>
   <!------------------------------------------------------------------------------------------------->
   
-  <div class="contact">
+  <div class="contactsocial">
     <ul >
         <li><h4>Nous rejoindre sur les réseaux</h4> </li>
         <div class="navbar-contact">
          
             {{ range .Site.Menus.social }}
             <a href="{{ .URL }}" class="navbar-item is-hidden-touch" title="{{ .Name }}"><span
-                    class="icon">{{ .Pre }}</span></a>
+                    class="iconcontact">{{ .Pre }}</span></a>
             {{ end }}
 
         </div>
