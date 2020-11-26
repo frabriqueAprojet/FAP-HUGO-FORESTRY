@@ -1,9 +1,5 @@
-
-
-
-{{ define "main" }}
-
-
+{
+}
 <div class="container">
     
     <div class="section">
@@ -95,7 +91,7 @@
     <div class="sectionprojetsuite">
         <div class="carousel">
             <h4>Vous voulez en découvrir davantage?</h4>
-            <button class="button3" ><a href="#">Voir tous les projets<i class="fas fa-arrow-circle-right"></i></a></button>           
+            <button class="button3" onclick = "openProject()" ><a href="#">Voir tous les projets<i class="fas fa-arrow-circle-right"></i></a></button>           
         </div>     
     </div>
     <div class="sectionprojetsuite">
@@ -109,6 +105,11 @@
 </div>
 
  <!------------------------------------------------------------------------------------------------------->
-
+<script>
+  function openProject()
+  {
+    document.location.href="pages/projets"
+  }
+<script/>
      
 {{ end }}
