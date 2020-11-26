@@ -296,18 +296,20 @@ __________________________________________________________________*/
 {
     display: flex;
     margin-left: auto;
+    
 }
 
-.contactsocialnav a
+.contactsocial
 {
-    
-    
-    
+    display: flex;
+    margin-top: 10%;
+    justify-content: center;
+    margin-bottom: 10%;
 }
 .iconcontact
 {
    
-    color: red;
+    color: #e94a34;
 }
 
 /*_________________________________________________________________
