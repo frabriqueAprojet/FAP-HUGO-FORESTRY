@@ -5,22 +5,22 @@
 
 # screenshot de la page index
 
-![alt text](https://github.com/Nicolas-Turck/FAP-HUGO/blob/master/static/img/indexscreenshot.png)
+![alt text](https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/static/img/indexscreenshot.png)
 
 # screenshot de la page projets
 
-![alt text](https://github.com/Nicolas-Turck/FAP-HUGO/blob/master/static/img/all-projet.png)
+![alt text](https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/static/img/all-projet.png)
 
 # screenshot de la page étudiants
 
-![alt text](https://github.com/Nicolas-Turck/FAP-HUGO/blob/master/static/img/all-etudiants.png)
+![alt text](https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/static/img/all-etudiants.png)
 
 # screenshot de la page présentation d'un étudiant
 
-![alt text](https://github.com/Nicolas-Turck/FAP-HUGO/blob/master/static/img/ficheetudiants.png)
+![alt text](https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/static/img/ficheetudiants.png)
 
 
 # screenshot de la page contact
 
-![alt text](https://github.com/Nicolas-Turck/FAP-HUGO/blob/master/static/img/contact-screenshot.png)
+![alt text](https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/static/img/contact-screenshot.png)
 
