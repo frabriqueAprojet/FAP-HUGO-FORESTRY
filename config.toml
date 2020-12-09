@@ -22,6 +22,13 @@ weight = 3
 name = "Contact"
 url = "/pages/Contact"
 weight = 4
+
+[[menu.main]]
+name = "projet1"
+url = "/projets/need-web-student"
+weight = 5
+
+
 [[menu.nav]]
 name = "Tout"
 url = "/pages/Lecole"
@@ -44,7 +51,7 @@ url = "/pages/Etudiants"
 weight = 5
 [[menu.nav]]
 
-  name = "Année précédentes"
+  name = "Années précédentes"
   url = "/pages/Contact"
   weight = 6
 
@@ -63,27 +70,27 @@ weight = 5
   weight = 2
 
 [[menu.navetudiants]]
-  name = "Dévelopement"
+  name = "Développement"
   url = "/pages/Lecole"
   weight = 3
 
 [[menu.navetudiants]]
-  name = "Markéting"
+  name = "Marketing"
   url = "/pages/projets"
   weight = 4
 
 [[menu.navetudiants]]
-  name = "1er année"
+  name = "1ère année"
   url = "/pages/Etudiants"
   weight = 5
 
 [[menu.navetudiants]]
-  name = "2eme année"
+  name = "2ème année"
   url = "/pages/Contact"
   weight = 6
 
 [[menu.navetudiants]]
-  name = "3eme année"
+  name = "3ème année"
   url = "/pages/Contact"
   weight = 7
 
@@ -116,8 +123,6 @@ name = "Instagram"
 pre = "<i class='fab fa-instagram'></i>"
 url = "https://www.instagram.com/explore/locations/1834112433536417/france/le-petit-quevilly/normandie-web-school/"
 weight = 3
-[params]
-author = "Janne Kemppainen"
-authorImage = "/img/abeille.png"
-description = "My First Post"
-images = "/img/imgprojet.png"
+
+
+

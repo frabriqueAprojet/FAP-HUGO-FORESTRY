@@ -1,4 +1,6 @@
-{{ define "main" }}
+{{define "main"}}
+
+
 <section class="section">
     <div class="container max-800px">
         <h1 class="title is-1">{{ .Title }}</h1>
@@ -11,8 +13,7 @@
       {{ end }}
       <div class="column">
         <p>{{ .Site.Params.Author }}</p>
-        <p><time>{{ .PublishDate.Format "January 2, 2006" }}</time> | 
-            {{ .ReadingTime }} {{ if eq .ReadingTime 1 }} minute {{ else }} minutes {{ end }}</p>
+    
       </div>
     </div>
     {{ with .Params.images }}
@@ -25,4 +26,6 @@
         </div>
     </div>
 </section>
-{{ end }}
+
+
+{{end}}
