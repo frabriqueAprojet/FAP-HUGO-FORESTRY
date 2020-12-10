@@ -1,13 +1,13 @@
 {{define "main"}}
 
-<section class="section2">
+<!--<section class="section2">
     <div class="container max-800px">
        
    
         <div class="content2">
             <div class="post-head">
                 
-            <!---  <p>{{.Title}}</p>
+             <p>{{.Title}}</p>
               <title> {{.Site.Title}} </title>
               <p>{{.}}</p>
               {{ range .Site.Pages }}
@@ -24,8 +24,8 @@
                 {{ end }}
                 {{ else }}
                 <p>aucun élément trouvé</p>
-                {{ end }}-->
-            {{ .Content }}
+                {{ end }}
+            {{ .Content }}--->
         </div>
     </div>
 </section>
@@ -40,7 +40,16 @@
             <div class="post-head">
                 
               
-            {{ .Description }}
+                <main>
+                    <div>
+                     <h1>{{ .Content}}</h1>
+                          <ul>
+                          <!-- Renders the li.html content view for each content/posts/*.md -->
+                         
+                          
+                          </ul>
+                    </div>
+                  </main>
         </div>
     </div>
 </section>
