@@ -96,6 +96,7 @@ date: 2020-11-26T15:47:00.000+00:00
                             <div class="item active">
                                 <div class="row">
                                     <div class="col-sm-4">
+                                    
                                         <img class="d-block w-10" src="img/imgprojet.png" alt="First slide">
                                     </div>
                                     <div class="col-sm-4">

@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "fr-fr"
 theme = "fapThème"
 
-
+disableKinds = ["taxonomie", "taxonomyTerm"]
 
 [[menu.main]]
 
@@ -23,10 +23,7 @@ name = "Contact"
 url = "/pages/Contact"
 weight = 4
 
-[[menu.main]]
-name = "projet1"
-url = "/projets/need-web-student"
-weight = 5
+
 
 
 [[menu.nav]]
