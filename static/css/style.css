@@ -2,6 +2,11 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 1.5em;
 }*/
+.a
+{ 
+ color:black 
+} 
+
 .title-image {
     padding-bottom: 2em;
 }
@@ -125,6 +130,7 @@ h3
 }
 .button3
 {
+    margin-top: 2%;
     background-color: #00a5a5;
     font-size: 2em;
     border: none;
@@ -191,6 +197,16 @@ position: center;
 
 ---------------------------ENDPROJETSMAIN------------------------------
 __________________________________________________________________*/
+/*_________________________________________________________________
+
+---------------------------Projet presentation------------------------------
+__________________________________________________________________*/
+.title-projet
+{
+    text-align: center;
+    color: blueviolet;
+}
+
 /*_________________________________________________________________
 
 ---------------------------EtudiantsMAIN------------------------------
@@ -382,9 +398,10 @@ __________________________________________________________________*/
     margin-right: auto;
 }
 
-.photo1
+.photofooter
 {
     float: left;
+    width: 20%
 }
 
 .photo2
@@ -394,6 +411,8 @@ __________________________________________________________________*/
 .footerline
 {
     margin-top: 2%;
+    margin-left: 15%;
+    margin-right: 15%;
     border-bottom:1px solid grey;
 }
 .copyright

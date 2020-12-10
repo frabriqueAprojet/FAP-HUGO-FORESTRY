@@ -1,6 +1,7 @@
 
 {{define "main"}}
 
+
 <div class="container">
     
     <div class="section">
@@ -11,8 +12,8 @@
  <!------------------------------------------------------------------------------------------------------->  
 
             <div class="sectionprojet">
-                <h2 class="white">Que font les étudiants au sein de notre école?</h2>
-                <p style= color:#00a5a5>Voici la globalité des projets conceptionner par nos étudiants </p>
+                <h2 class="white" style="color:white">Que font les étudiants au sein de notre école?</h2>
+                <p style= color:#00a5a5>Voici la globalité des projets réalisés par nos étudiants </p>
                 <h3 style= color:#fec800 >Les plus récents</h3>
             <div id="myCarousel" class="carousel slide">
                     <div class="carousel-inner">
@@ -20,40 +21,44 @@
                             <div class="item active">
                                 <div class="row">
                                     <div class="col-sm-4">
-                                        <a class="projetimage" href="/pages/ficheprojet"><img class="d-block w-10" src="img/imgprojet.png" alt="First slide"></a>
+                                       
+                                        <a class="projetimage" href="/projets/application-recyclon"><img class="d-block w-10" src="/imagesprojets/Application-Recyclon/images/recyclon01.png" alt="First slide"></a>
                                     </div>
                                     <div class="col-sm-4">
                                         {{- block "My First Post" . }}{{- end }}
                                        
-                                        <img class="d-block w-10" src="img/abeille.png" alt="First slide">
+                                        <a class="projetimage" href="/projets/aux-couleure-du-cheval" ><img class="d-block w-10" src="/imagesprojets/Au-Coul_Eure-du-Cheval/images/couleure01.png" alt="First slide"></a>
                                     </div>
                                     <div class="col-sm-4">
-                                        <img class="d-block w-10" src="img/juice.png" alt="First slide">
+                                        <a class="projetimage" href="/projets/blog-de-la-nws" ><img class="d-block w-10" src="/imagesprojets/Blog-NWS/images/blognws01.png" alt="First slide"></a>
                                     </div>
+                                    
+                                    
                                 </div>
                             </div>
                         </div>
                     </div>
             </div>
          </div>
+        </div>
     <!------------------------------------------------------------------------------------------------------->    
 
     <div class="content2">
         <div class="sectionprojet">
-        <h3 style= color:#e94a34>Cet année</h3>
+        <h3 style= color:#e94a34>Cette année</h3>
             <div id="myCarousel" class="carousel slide">
                 <div class="carousel-inner">
                     <div class="carousel">
                         <div class="item active">
                             <div class="row">
                                 <div class="col-sm-4">
-                                    <img class="d-block w-10" src="img/social.png" alt="First slide">
+                                    <a class="projetimage" href="/projets/bot-facebook" ><img class="d-block w-10" src="/imagesprojets/Bot-Facebook-Messenger/images/bfmnws01.jpeg" alt="First slide"></a>
                                 </div>
                                 <div class="col-sm-4">
-                                    <img class="d-block w-10" src="img/work.png" alt="First slide">
+                                    <a class="projetimage" href="/projets/boutique-asgard" ><img class="d-block w-10" src="/imagesprojets/Boutique-Asgard/images/asgard01.png" alt="First slide"></a>
                                 </div>
                                 <div class="col-sm-4">
-                                    <img class="d-block w-10" src="img/phone.png" alt="First slide">
+                                    <a class="projetimage" href="/projets/citronnade-mimouna" ><img class="d-block w-10" src="/imagesprojets/Citronnade-mimouna/images/mimouna01.png" alt="First slide"></a>
                                 </div>
                             </div>
                         </div>
@@ -73,13 +78,13 @@
                 <div class="item active">
                     <div class="row">
                         <div class="col-sm-4">
-                            <img class="d-block w-10" src="img/imgprojet.png" alt="First slide">
+                            <a class="projetimage" href="/projets/creation-identite-web" ><img class="d-block w-10" src="/imagesprojets/Creation-Identité-Web/images/ciw02.png" alt="First slide"></a>
                         </div>
                         <div class="col-sm-4">
-                            <img class="d-block w-10" src="img/abeille.png" alt="First slide">
+                            <a class="projetimage" href="/projets/ecoboat" ><img class="d-block w-10" src="/imagesprojets/EcoBoat/images/eb01.png" alt="First slide"></a>
                         </div>
                         <div class="col-sm-4">
-                            <img class="d-block w-10" src="img/juice.png" alt="First slide">
+                            <a class="projetimage" href="/projets/journees-portes-ouvertes" ><img class="d-block w-10" src="/imagesprojets/Journées-portes-ouvertes/images/jpo01.png" alt="First slide"></a>
                          </div>
                          
                     </div>
@@ -91,14 +96,14 @@
 <div class="content2">
     <div class="sectionprojetsuite">
         <div class="carousel">
-            <h4>Vous voulez en découvrir davantage?</h4>
-            <button class="button3" ><a href="#">Voir tous les projets<i class="fas fa-arrow-circle-right"></i></a></button>           
+            
+            <button class="button3" ><a href="#">Voir tout les projets<i class="fas fa-arrow-circle-right"></i></a></button>           
         </div>     
     </div>
     <div class="sectionprojetsuite">
         <div class="carousel">
             <img src="img/tirets.png" alt="tiret NWS" />   
-            <h4>Nos partenaires:</h4>
+            <h4><strong>Nos partenaires:</strong></h4>
             <img src="img/partenaire.png" alt="partenaire NWS" />          
         </div>     
     </div>

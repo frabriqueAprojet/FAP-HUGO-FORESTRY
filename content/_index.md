@@ -25,6 +25,7 @@ date: 2020-11-26T15:47:00.000+00:00
  <link rel="stylesheet" href="[https://use.fontawesome.com/releases/v5.7.2/css/all.css](https://use.fontawesome.com/releases/v5.7.2/css/all.css "https://use.fontawesome.com/releases/v5.7.2/css/all.css")" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"> <script src="[https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js](https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js")"></script> <link rel="stylesheet" href="[https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css](https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css")" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"> {{ template "_internal/opengraph.html" . }} {{ template "_internal/twitter_cards.html" . }} {{ if not (in (string .Site.BaseURL) "localhost") }} {{ template "_internal/google_analytics_async.html" . }} {{ end }} {{ with .Params.forestry_instant_preview_id }} {{- safeHTML (printf "<meta property='forestry_instant_preview_id' content='%s'>" .) -}}{{ end -}}
 </head>
 <header>
+
     <div class="firstline">
         <ul class="nav">
             <li class="nav-item">
@@ -95,6 +96,7 @@ date: 2020-11-26T15:47:00.000+00:00
                             <div class="item active">
                                 <div class="row">
                                     <div class="col-sm-4">
+                                    
                                         <img class="d-block w-10" src="img/imgprojet.png" alt="First slide">
                                     </div>
                                     <div class="col-sm-4">
