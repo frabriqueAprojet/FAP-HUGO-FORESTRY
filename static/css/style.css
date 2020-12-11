@@ -2,6 +2,39 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 1.5em;
 }*/
+.paragraphe
+{
+    color: blueviolet;
+    text-decoration: red;
+    margin-bottom: 50%;
+}
+#p
+{
+    margin-bottom: 5%;
+}
+img[src$='#center'] {
+   
+    display: inline-flex;
+    margin: 1.0rem auto;
+    max-width: 20%;
+    height: auto;
+  }
+img[src$='#secondimg'] {
+    display: inline-flex;
+    float: left;
+    margin: 1.0rem auto;
+    max-width: 50%;
+    height: auto;
+    margin-right: 3%;
+  }
+  img[src$='#thirdimg'] {
+    display: inline-flex;
+    float: right;
+    margin: 1.0rem auto;
+    max-width: 50%;
+    height: auto;
+    margin-left: 3%;
+  }
 .a
 { 
  color:black 
