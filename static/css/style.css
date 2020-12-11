@@ -2,30 +2,29 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 1.5em;
 }*/
-.paragraphe
-{
-    color: blueviolet;
-    text-decoration: red;
-    margin-bottom: 50%;
-}
+
+
 #p
 {
     margin-bottom: 5%;
 }
 img[src$='#center'] {
    
+    margin-top: 40%;
     display: inline-flex;
     margin: 1.0rem auto;
-    max-width: 20%;
+    max-width: 15%;
     height: auto;
+    margin-inline-start: auto;
   }
 img[src$='#secondimg'] {
     display: inline-flex;
     float: left;
     margin: 1.0rem auto;
-    max-width: 50%;
+    max-width: 40%;
     height: auto;
     margin-right: 3%;
+    border-radius: 50%;
   }
   img[src$='#thirdimg'] {
     display: inline-flex;
@@ -34,6 +33,7 @@ img[src$='#secondimg'] {
     max-width: 50%;
     height: auto;
     margin-left: 3%;
+    margin-bottom: 30%;
   }
 .a
 { 
