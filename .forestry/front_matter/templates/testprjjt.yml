@@ -1,0 +1,19 @@
+---
+label: testprjjt
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: student
+  label: student
+- type: list
+  name: category
+  label: category
+- type: text
+  name: layout
+  label: layout
