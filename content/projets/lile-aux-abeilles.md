@@ -11,7 +11,7 @@ category: ["cat1", "cat2"]
 layout: projettest
 ---
 
-![abeilles](/imagesprojets/L-ile-aux-abeilles/images/abeilles01.png)
+![abeilles ](/imagesprojets/L-ile-aux-abeilles/images/abeilles01.png)
 
 # L’île aux abeilles
 
@@ -23,7 +23,7 @@ L’île aux abeilles est une entreprise de fabrication de produits artisanaux �
 
 Déjà bien présent sur internet par le biais de leur page Facebook ils ont décidé de développer encore plus leur activité c’est pourquoi ils sont venus à nous pour que nous leur fassions un site vitrine, présentant le catalogue de tous leurs produits, ainsi qu’une rubrique où ils pourront poster des recettes à base de miel chaque mois et une rubrique d’articles visant à sensibiliser les gens sur la disparitions des abeilles et les dangers auxquels elles sont confrontées.
 
-![photo étudiants](/imagesprojets/L-ile-aux-abeilles/participants/alexandremeraultd.png)
-![photo étudiants](/imagesprojets/L-ile-aux-abeilles/participants/antoinebecquemontm.png)
-![photo étudiants](/imagesprojets/L-ile-aux-abeilles/participants/ianisalleronwd.png)
-![photo étudiants](/imagesprojets/L-ile-aux-abeilles/participants/ludovicducroqwd.png)
+![photo étudiants](/imagesprojets/L-ile-aux-abeilles/participants/alexandremeraultd.png#center)
+![photo étudiants](/imagesprojets/L-ile-aux-abeilles/participants/antoinebecquemontm.png#center)
+![photo étudiants](/imagesprojets/L-ile-aux-abeilles/participants/ianisalleronwd.png#center)
+![photo étudiants](/imagesprojets/L-ile-aux-abeilles/participants/ludovicducroqwd.png#center)
