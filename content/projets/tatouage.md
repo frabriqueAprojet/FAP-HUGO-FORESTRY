@@ -1,16 +1,15 @@
 ---
 title: " Une application pour amateurs de tatouage (Projet fictif) "
-date: 2020-11-18T09:12:50+01:00
-draft: true
+date: 2020-11-18T09:12:50.000+01:00
 student:
-    - marie-dermy
-    - sara-proffit
-   
-   
-category: ["cat1", "cat2"]   
+- marie-dermy
+- sara-proffit
+category:
+- cat1
+- cat2
 layout: projettest
----
 
+---
 ![tatouage](/imagesprojets/Application-Tatouage/images/applitatouage01.png)
 
 # Une application pour amateurs de tatouage (Projet fictif)
