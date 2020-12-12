@@ -15,9 +15,9 @@ layout: projettest
 
 ![recyclon](/imagesprojets/Application-Recyclon/images/recyclon01.png)
 
-# Application Recycl’on (Projet fictif){#p}
+# Application Recycl’on (Projet fictif){#h1}
 
-## Et si le recyclage devenait ludique tout en vous simplifiant la vie ?{#p}
+## Et si le recyclage devenait ludique tout en vous simplifiant la vie ?{#h2}
 
 ![recyclon](/imagesprojets/Application-Recyclon/images/recyclon02.png#secondimg)
 

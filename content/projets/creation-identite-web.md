@@ -41,7 +41,7 @@ profession, ‘’la clé d’acquérir par passion une profession’’
 
 ![identité web](/imagesprojets/Creation-Identité-Web/images/ciw01.jpg)
 
-![étudiant](/imagesprojets/Creation-Identité-Web/participants/enoraguilleuxwd.png)
-![étudiant](/imagesprojets/Creation-Identité-Web/participants/manassenapoleonm.png)
-![étudiant](/imagesprojets/Creation-Identité-Web/participants/matheothevenotwd.jpg)
-![étudiant](/imagesprojets/Creation-Identité-Web/participants/raphaelmassed.png)
+![étudiant](/imagesprojets/Creation-Identité-Web/participants/enoraguilleuxwd.png#center)
+![étudiant](/imagesprojets/Creation-Identité-Web/participants/manassenapoleonm.png#center)
+![étudiant](/imagesprojets/Creation-Identité-Web/participants/matheothevenotwd.jpg#center)
+![étudiant](/imagesprojets/Creation-Identité-Web/participants/raphaelmassed.png#center)
