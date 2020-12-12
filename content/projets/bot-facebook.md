@@ -10,12 +10,13 @@ category: ["cat1", "cat2"]
 layout: projettest
 ---
 
-![messenger](/imagesprojets/Bot-Facebook-Messenger/images/bfmnws01.jpeg)
+![facebook](/imagesprojets/Bot-Facebook-Messenger/images/bfmnws02.png#firstimg)
 
-# Bot Facebook Messenger pour la Normandie Web School
-## Création d’un bot Facebook-Messenger pour répondre aux différentes questions envoyé à l’école via Facebook Messenger.
+# Bot Facebook Messenger pour la Normandie Web School{#h1}
+## Création d’un bot Facebook-Messenger pour répondre aux différentes questions envoyé à l’école via Facebook Messenger.{#h2}
+![messenger](/imagesprojets/Bot-Facebook-Messenger/images/bfmnws01.jpeg#firstimg)
 
-![facebook](/imagesprojets/Bot-Facebook-Messenger/images/bfmnws02.png)
+
 
 Un bot Facebook-Messenger permet de répondre immédiatement aux questions que vous posez sur la plateforme, et peut également vous aider dans différentes démarches.
 
@@ -25,4 +26,4 @@ Pour concevoir un bot Facebook-Messenger, nous devons utiliser ce qu’on appell
 
 Pour utiliser cette API, je me suis servi du langage de programmation Ruby ainsi que du framework Ruby On Rails. J’ai ensuite déployer mon code sur une plateforme appelée Heroku.
 
-![étudiants](/imagesprojets/Bot-Facebook-Messenger/participants/enzodorosariod.png)
+![étudiants](/imagesprojets/Bot-Facebook-Messenger/participants/enzodorosariod.png#center)

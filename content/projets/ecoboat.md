@@ -15,11 +15,12 @@ layout: projettest
 
 ![ecoboat](/imagesprojets/EcoBoat/images/eb01.png)
 
-# EcoBoat (Projet fictif)
+# EcoBoat (Projet fictif){#h1}
 
 ## EcoBoat est une application mobile de pari et de prévention sur le recyclage et le “7ème continent”.
 
-![ecoboat](/imagesprojets/EcoBoat/images/eb02.jpg)
+![ecoboat](/imagesprojets/EcoBoat/images/eb02.jpg#mobileimg)
+![étudiant](/imagesprojets/EcoBoat/images/eb03.jpg#mobileimg)
 
 Au moins 1 800 milliards de déchets plastiques polluent les océans. Au fil des années, ils se sont agglomérés en une monstrueuse masse qui ne cesse de s’étendre en plein Pacifique. Surnommé “le septième continent”, cet amas de détritus est un réel danger pour la planète. Heureusement, des sociétés ont décidé de s’attaquer à ce problème à l’aide de bateaux spécialement équipés.
 
@@ -35,14 +36,14 @@ Notre travail était donc de réaliser une application gamifiée sur le thème d
 
 Le septième continent a encore de (trop) beaux jours à venir, mais pour le moment, il est important d’informer et de sensibiliser la population à ce sujet, pour aider des sociétés à protéger notre planète.
 
-![étudiant](/imagesprojets/EcoBoat/images/eb03.jpg)
 
-![étudiant](/imagesprojets/EcoBoat/participants/enzodorosariod.png)
-![étudiant](/imagesprojets/EcoBoat/participants/florandachewd.png)
-![étudiant](/imagesprojets/EcoBoat/participants/enzodorosariod.png)
-![étudiant](/imagesprojets/EcoBoat/participants/francoisxavierfind.jpg)
-![étudiant](/imagesprojets/EcoBoat/participants/hugobouteillerd.png)
-![étudiant](/imagesprojets/EcoBoat/participants/quentinmeunierm.png)
+
+![étudiant](/imagesprojets/EcoBoat/participants/enzodorosariod.png#center)
+![étudiant](/imagesprojets/EcoBoat/participants/florandachewd.png#center)
+![étudiant](/imagesprojets/EcoBoat/participants/enzodorosariod.png#center)
+![étudiant](/imagesprojets/EcoBoat/participants/francoisxavierfind.jpg#center)
+![étudiant](/imagesprojets/EcoBoat/participants/hugobouteillerd.png#center)
+![étudiant](/imagesprojets/EcoBoat/participants/quentinmeunierm.png#center)
 
 
 

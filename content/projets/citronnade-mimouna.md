@@ -30,7 +30,7 @@ Avec la cliente, nous avons fixé les éléments qui devaient être présents su
 Nous avons pu terminer le site en moins de trois semaines de travail consécutives et le rendre accessible aux internautes à cette adresse. La cliente ne souhaitait pas une activation immédiate de la boutique et n’a donc plus qu’à la configurer pour lancer les ventes en ligne.
 
 
-![étudiant](/imagesprojets/Citronnade-mimouna/participants/alexandretuboeufd.jpg)
-![étudiant](/imagesprojets/Citronnade-mimouna/participants/aymeahmedm.jpg)
-![étudiant](/imagesprojets/Citronnade-mimouna/participants/lilianlemoined.jpg)
-![étudiant](/imagesprojets/Citronnade-mimouna/participants/nathanbouralywd.jpg)
+![étudiant](/imagesprojets/Citronnade-mimouna/participants/alexandretuboeufd.jpg#center)
+![étudiant](/imagesprojets/Citronnade-mimouna/participants/aymeahmedm.jpg#center)
+![étudiant](/imagesprojets/Citronnade-mimouna/participants/lilianlemoined.jpg#center)
+![étudiant](/imagesprojets/Citronnade-mimouna/participants/nathanbouralywd.jpg#center)
