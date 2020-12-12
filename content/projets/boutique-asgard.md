@@ -2,23 +2,20 @@
 title: " Boutique Asgard"
 date: 2020-11-18T09:12:50.000+01:00
 student:
-- alan-pasdeloup
-- bilal-haouchine
-- alan-favennec
-- fabien-labbe
-category:
-- cat1
-- cat2
-layout: projettest
-draft: true
-
+    - alan-pasdeloup
+    - bilal-haouchine
+    - alan-favennec
+    - fabien-labbe
+category: ["cat1", "cat2"]   
+layouts: projettest
+---
 
 ![asgard](/imagesprojets/Boutique-Asgard/images/asgard01.png#firstimg)
 
 
 
 # Boutique Asgard {#h1}
-
+# bdfdvjfdhvfd
 ## La taverne d’Asgard est un magasin de vente de jeux de sociétés et de figurines installé depuis plus de trois ans dans le centre de Rouen. Dans le cadre de nos études, le projet client que l’on nous a confié consistait à trouver une solution aux problèmes de vente et de visibilité du magasin. {#h2}
 
 ![asgard](/imagesprojets/Boutique-Asgard/images/asgard03.png)
