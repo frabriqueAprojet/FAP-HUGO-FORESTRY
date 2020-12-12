@@ -1,17 +1,21 @@
 ---
 title: " Boutique Asgard"
-date: 2020-11-18T09:12:50+01:00
-draft: true
+date: 2020-11-18T09:12:50.000+01:00
 student:
-    - alan-pasdeloup
-    - bilal-haouchine
-    - alan-favennec
-    - fabien-labbe
-category: ["cat1", "cat2"]   
+- alan-pasdeloup
+- bilal-haouchine
+- alan-favennec
+- fabien-labbe
+category:
+- cat1
+- cat2
 layout: projettest
----
+draft: true
+
 
 ![asgard](/imagesprojets/Boutique-Asgard/images/asgard01.png#firstimg)
+
+
 
 # Boutique Asgard {#h1}
 
