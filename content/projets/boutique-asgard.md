@@ -1,7 +1,6 @@
 ---
 title: " Boutique Asgard"
-date: 2020-11-18T09:12:50+01:00
-draft: true
+date: 2020-11-18T09:12:50.000+01:00
 student:
     - alan-pasdeloup
     - bilal-haouchine
@@ -12,6 +11,8 @@ layouts: projettest
 ---
 
 ![asgard](/imagesprojets/Boutique-Asgard/images/asgard01.png#firstimg)
+
+
 
 # Boutique Asgard {#h1}
 # bdfdvjfdhvfd
