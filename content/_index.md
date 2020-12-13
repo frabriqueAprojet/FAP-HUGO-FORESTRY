@@ -9,8 +9,6 @@ date: 2020-11-26T15:47:00.000+00:00
 
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
-<title>{{ if not .IsHome }}{{ with .Title }}{{ . }} | {{ end }}{{ end }}{{ .Site.Title }}</title>
-
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{end }}{{ end }}">
 
 <link rel="canonical" href="{{ .Permalink }}" />
@@ -21,8 +19,7 @@ date: 2020-11-26T15:47:00.000+00:00
 
 <link rel="stylesheet" href='{{ "css/style.css" | relURL }}'/>
 
-  
- <link rel="stylesheet" href="[https://use.fontawesome.com/releases/v5.7.2/css/all.css](https://use.fontawesome.com/releases/v5.7.2/css/all.css "https://use.fontawesome.com/releases/v5.7.2/css/all.css")" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"> <script src="[https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js](https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js")"></script> <link rel="stylesheet" href="[https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css](https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css")" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"> {{ template "_internal/opengraph.html" . }} {{ template "_internal/twitter_cards.html" . }} {{ if not (in (string .Site.BaseURL) "localhost") }} {{ template "_internal/google_analytics_async.html" . }} {{ end }} {{ with .Params.forestry_instant_preview_id }} {{- safeHTML (printf "<meta property='forestry_instant_preview_id' content='%s'>" .) -}}{{ end -}}
+<link rel="stylesheet" href="[https://use.fontawesome.com/releases/v5.7.2/css/all.css](https://use.fontawesome.com/releases/v5.7.2/css/all.css "https://use.fontawesome.com/releases/v5.7.2/css/all.css")" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"> <script src="[https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js](https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js")"></script> <link rel="stylesheet" href="[https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css](https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css")" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"> {{ template "_internal/opengraph.html" . }} {{ template "_internal/twitter_cards.html" . }} {{ if not (in (string .Site.BaseURL) "localhost") }} {{ template "_internal/google_analytics_async.html" . }} {{ end }} {{ with .Params.forestry_instant_preview_id }} {{- safeHTML (printf "<meta property='forestry_instant_preview_id' content='%s'>" .) -}}{{ end -}}
 </head>
 <header>
 
@@ -75,16 +72,17 @@ date: 2020-11-26T15:47:00.000+00:00
             })
         })
     </script>
-   
+
 </header>
 <div class="container">
-    
+
     <div class="section">
         <div class='wallpaper'>
             <img src="img/wall.png" alt="wallpaper NWS" />
         </div>
         <div class="content">
- <!------------------------------------------------------------------------------------------------------->  
+
+<!------------------------------------------------------------------------------------------------------->
 
             <div class="sectionprojet">
                 <h2 class="white">Que font les étudiants au sein de notre école?</h2>
@@ -114,7 +112,7 @@ date: 2020-11-26T15:47:00.000+00:00
             </div>
          </div>
     <!------------------------------------------------------------------------------------------------------->    
-
+    
     <div class="content2">
         <div class="sectionprojet">
         <h3 style= color:#e94a34>Cet année</h3>
@@ -139,60 +137,62 @@ date: 2020-11-26T15:47:00.000+00:00
             </div>
         </div>
     </div>
- <!------------------------------------------------------------------------------------------------------->  
+
+<!------------------------------------------------------------------------------------------------------->
 
 <div class="content">
-    <div class="sectionprojet">
-    <h3 style= color:#fec800 >Projets de 2018 à 2019</h3>
-    <div id="myCarousel" class="carousel slide">
-        <div class="carousel-inner">
-            <div class="carousel">
-                <div class="item active">
-                    <div class="row">
-                        <div class="col-sm-4">
-                            <img class="d-block w-10" src="img/imgprojet.png" alt="First slide">
-                        </div>
-                        <div class="col-sm-4">
-                            <img class="d-block w-10" src="img/abeille.png" alt="First slide">
-                        </div>
-                        <div class="col-sm-4">
-                            <img class="d-block w-10" src="img/juice.png" alt="First slide">
-                         </div>
-                         
+<div class="sectionprojet">
+<h3 style= color:#fec800 >Projets de 2018 à 2019</h3>
+<div id="myCarousel" class="carousel slide">
+<div class="carousel-inner">
+<div class="carousel">
+<div class="item active">
+<div class="row">
+<div class="col-sm-4">
+<img class="d-block w-10" src="img/imgprojet.png" alt="First slide">
+</div>
+<div class="col-sm-4">
+<img class="d-block w-10" src="img/abeille.png" alt="First slide">
+</div>
+<div class="col-sm-4">
+<img class="d-block w-10" src="img/juice.png" alt="First slide">
+</div>
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
 </div>
 <div class="content2">
-    <div class="sectionprojetsuite">
-        <div class="carousel">
-            <h4>Vous voulez en découvrir davantage?</h4>
-            <button class="button3" ><a href="#">Voir tous les projets<i class="fas fa-arrow-circle-right"></i></a></button>           
-        </div>     
-    </div>
-    <div class="sectionprojetsuite">
-        <div class="carousel">
-            <img src="img/tirets.png" alt="tiret NWS" />   
-            <h4>Nos partenaires:</h4>
-            <img src="img/partenaire.png" alt="partenaire NWS" />          
-        </div>     
-    </div>
-</div> 
+<div class="sectionprojetsuite">
+<div class="carousel">
+<h4>Vous voulez en découvrir davantage?</h4>
+<button class="button3" ><a href="#">Voir tous les projets<i class="fas fa-arrow-circle-right"></i></a></button>  
+</div>  
+</div>
+<div class="sectionprojetsuite">
+<div class="carousel">
+<img src="img/tirets.png" alt="tiret NWS" />  
+<h4>Nos partenaires:</h4>
+<img src="img/partenaire.png" alt="partenaire NWS" />  
+</div>  
+</div>
+</div>
 </div>
 
- <!------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------->
 <footer class="footer">
-    <div class="containerfooter">
-       <div class="photo1"><img src="/../img/logofooter.png" alt="wallpaper NWS" /></div>
-       <div class="contact">
-            <ul >
-                <li><h3 class="titlefooter" style= color:#00a5a5>Nous retrouver</h3></li>
-                <li style= color:#fec800 >Seine Innopolis</li>
-                <li style= color:grey>72 rue de la République</li>
-                <li style= color:grey>76140 Le Petit-Quevilly</li>
-                
+<div class="containerfooter">
+<div class="photo1"><img src="/../img/logofooter.png" alt="wallpaper NWS" /></div>
+<div class="contact">
+<ul >
+<li><h3 class="titlefooter" style= color:#00a5a5>Nous retrouver</h3></li>
+<li style= color:#fec800 >Seine Innopolis</li>
+<li style= color:grey>72 rue de la République</li>
+<li style= color:grey>76140 Le Petit-Quevilly</li>
+
             </ul>
        </div>
        <div class="contact">
@@ -206,19 +206,20 @@ date: 2020-11-26T15:47:00.000+00:00
             
             
         </ul>
-   </div>
-   <div class="contact">
-    <ul >
-        <li><h3  class="titlefooter" style= color:#00a5a5>Réseaux sociaux</h3></li>
-        <div class="navbar-end">
-            {{ range .Site.Menus.social }}
-            <a href="{{ .URL }}" class="navbar-item is-hidden-touch" title="{{ .Name }}"><span
-                    class="icon">{{ .Pre }}</span></a>
-            {{ end }}
-        </div>
-    </ul>
+
 </div>
-       
+<div class="contact">
+<ul >
+<li><h3  class="titlefooter" style= color:#00a5a5>Réseaux sociaux</h3></li>
+<div class="navbar-end">
+{{ range .Site.Menus.social }}
+<a href="{{ .URL }}" class="navbar-item is-hidden-touch" title="{{ .Name }}"><span
+class="icon">{{ .Pre }}</span></a>
+{{ end }}
+</div>
+</ul>
+</div>
+
     </div>
     <div class="footerline"></div>
     <div class="copyright">
@@ -248,7 +249,8 @@ date: 2020-11-26T15:47:00.000+00:00
          <li>Confidentialité</li>
          
      </ul>
- </div>
- 
-   <!--------<div class="copyright">© 2019 NORMANDIE WEB SCHOOL</div>-------->
+
+</div>
+
+<!--------<div class="copyright">© 2019 NORMANDIE WEB SCHOOL</div>-------->
 </footer>
