@@ -9,8 +9,6 @@ date: 2020-11-26T15:47:00.000+00:00
 
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{end }}{{ end }}">
-
 <link rel="canonical" href="{{ .Permalink }}" />
 
 <link rel="stylesheet" href="[https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css](https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css "https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css")">
