@@ -27,7 +27,7 @@
         <li><h3  class="titlefooter" style= color:#00a5a5>Réseaux sociaux</h3></li>
         <div class="navbar-end">
             {{ range .Site.Menus.social }}
-            <a href="{{ .URL }}" class="navbar-item is-hidden-touch" title="{{ .Name }}"><span
+            <a href="{{ .URL }}" class="social-navbar" title="{{ .Name }}"><span
                     class="icon">{{ .Pre }}</span></a>
             {{ end }}
         </div>

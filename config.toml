@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "fr-fr"
-theme = "fapThème"
+
 
 disableKinds = ["taxonomie", "taxonomyTerm"]
 
