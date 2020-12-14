@@ -12,7 +12,7 @@ category: ["cat1", "cat2"]
 layout: projettest
 ---
 
-![Blog NWS](/imagesprojets/Blog-NWS/images/blognws01.png)
+![Blog NWS](/imagesprojets/Blog-NWS/images/blognws01.png#firtsimg)
 
 # Blog de la NWS{#p}
 
@@ -22,7 +22,6 @@ Nous étions en charges de rédiger des articles et publier ceux des étudiants.
 Nous avions tous jusqu’à début mars, à compter de fin novembre pour finir les projets clients. L’utilisation d’un CMS était pratique et rapide, notre groupe avait rencontré quelques problèmes : sur l’affichage de certains visuels. Grâce au Directeur des Systèmes d’Information (Jean-Claude Torrel) ce problème a été résolu ! 
 
 ![Blog NWS](/imagesprojets/Blog-NWS/images/blognws02.jpg#secondimg)
-
 
 
 

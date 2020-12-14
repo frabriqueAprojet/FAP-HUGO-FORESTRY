@@ -1,12 +1,27 @@
 {{define "main"}}
 <section class="section2">
-    <div class="container max-500px">
+    <div class="container">
         <div class="content2">
-            <div class="post-head">
-                {{ .Content}}         
+            {{ if eq .Section "projets" }}
+            <H1>{{.Title}}</H1>
+
+            <p>{{.Date}}</p>
+
+            <p>{{.Content}}</p>
+           
+            
+            <img class="cool" src="{{ with .Params.image }}{{ . }}{{ end }}" />
+
+            {{ end }}
+            
         </div>
     </div>
+    
 </section>
+
+
+
+
 <!--<section class="section2">
     <div class="container max-800px">
        

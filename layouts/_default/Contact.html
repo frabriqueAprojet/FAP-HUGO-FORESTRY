@@ -8,7 +8,7 @@
     </div>
     <div class="items2">
       <div class="contactmain">
-         <ul >
+         <ul class="list-contact">
             <li><i class="fas fa-map-marker-alt"></i></li>
             <li >72 rue de la République</li>
             <li >76140 Le Petit-Quevilly</li>
@@ -19,18 +19,20 @@
   <!------------------------------------------------------------------------------------------------->
 
   <div class="contactitems">
+    <div class="items4">
+      <img class="d-block w-10" src="../../img/gmail.png" alt="gmail">
+    </div>
+
     <div class="items3">
       <div class="contactmain">
-        <ul >
+        <ul class="list-contact">
           
           <li ><i class="fas fa-envelope"></i>contact@normandiewebschool.fr</li>
           
       </ul>
       </div>
     </div>
-    <div class="items4">
-      <img class="d-block w-10" src="../../img/gmail.png" alt="gmail">
-    </div>
+    
  
   </div>
   <!------------------------------------------------------------------------------------------------->
@@ -41,7 +43,7 @@
     </div>
     <div class="items6">
     <div class="contactmain">
-      <ul >
+      <ul class="list-contact">
          
           <li ><i class="fas fa-phone"></i>02 79 02 73 78</li>
           </ul>
@@ -56,7 +58,7 @@
         <div class="navbar-contact">
          
             {{ range .Site.Menus.social }}
-            <a href="{{ .URL }}" class="navbar-item is-hidden-touch" title="{{ .Name }}"><span
+            <a href="{{ .URL }}" class="navbar-item " title="{{ .Name }}"><span
                     class="iconcontact">{{ .Pre }}</span></a>
             {{ end }}
 
