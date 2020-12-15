@@ -7,10 +7,10 @@ student:
 category:
 - cat1
 - cat2
-layout: projettest
+layout: ficheprojet
 
 ---
-![tatouage](/imagesprojets/Application-Tatouage/images/applitatouage01.png)
+![tatouage](/imagesprojets/Application-Tatouage/images/applitatouage01.png#firstimg)
 
 # Une application pour amateurs de tatouage (Projet fictif)
 ## La réponse à tous ceux qui souhaitent se faire tatouer en toute sérénité.
@@ -25,12 +25,12 @@ Fini la galère pour contacter le professionnel de vos rêves. L’application v
 
 Si vous souhaitez un style particulier, vous pouvez également chercher un tatoueur par style. En effet, rien ne dit que celui exerçant près de chez vous pratique le traditionnel japonais, ou encore le trash polka. Ce choix de recherche vous ouvre une plus large palette d’artistes disséminés aux quatre coins de la France. Il ne faut donc pas craindre de voyager pour le tatouage tant désiré.
 
-![tatouage](/imagesprojets/Application-Tatouage/images/applitatouage02.png)
+![tatouage](/imagesprojets/Application-Tatouage/images/applitatouage02.png#thirdimg)
 
 En plus de ce système de mise en relation, l’application présente de nombreux articles axés sur le monde du tatouage.
 Il est important d’avoir toutes les informations relatives aux règles d’hygiène, aux protocoles de cicatrisation surtout lorsqu’on se fait tatouer pour la première fois. L’application permet également de faire connaître les grands noms du tatouage au travers de portraits présentant les artistes et leurs œuvres.
 
 Un outil gratuit parfait pour les amoureux du tattoo et des nouvelles technologies.
 
-![étudiants](/imagesprojets/Application-Tatouage/participants/mariedermywd.png)
-![étudiants](/imagesprojets/Application-Tatouage/participants/saraproffitwd.png)
+![étudiants](/imagesprojets/Application-Tatouage/participants/mariedermywd.png#center)
+![étudiants](/imagesprojets/Application-Tatouage/participants/saraproffitwd.png#center)

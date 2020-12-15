@@ -8,7 +8,7 @@ student:
     - clemence-tassilly
     - quentin-meunier
 category: ["cat1", "cat2"]   
-layout: projettest
+layout: ficheprojet
 ---
 
 
@@ -19,7 +19,7 @@ layout: projettest
 
 L’objectif fut de trouver des pistes d’améliorations pour le site de notre école, la Normandie Web School.
 
-![site web](/imagesprojets/Refonte-Site-Web/images/refonte02.jpg)
+![site web](/imagesprojets/Refonte-Site-Web/images/refonte02.jpg#firstimg)
 
 
 Le site original étant fait avec WordPress, nous avons décidé, mon groupe et moi-même, de maintenir donc ce système de gestion de contenu. Il est important que notre site soit responsive et mobile friendly.
@@ -36,7 +36,7 @@ Sur le pied de page de notre projet de site, nous avons rajouté un lien Google 
 
 Lors de l’ouverture d’un lien, celui-ci est ouvert dans un nouvel onglet.
 
-![site web](/imagesprojets/Refonte-Site-Web/images/refonte01.png)
+![site web](/imagesprojets/Refonte-Site-Web/images/refonte01.png#thirdimg)
 
 Nous avons également créé un livre blanc pour chacune des trois filières avec un dossier complet sur les emplois accessibles après l’école. Celui-ci est disponible en téléchargement annexe dans la rubrique “admission” ainsi que le formulaire d’inscription déjà en ligne sur le site d’origine. Le programme scolaire des trois filières sera présent sur le site et développé de façon à ce que le futur étudiant connaisse par avance le contenu de ses cours.
 
@@ -44,7 +44,7 @@ Nous souhaitons donc créer un nouveau site qui donne envie aux futurs étudiant
 
 En ce mois de mars 2019, le site de l’école a été modifié selon les goûts de notre direction en ayant suivi nos idées.
 
-![étudiant](/imagesprojets/Refonte-Site-Web/participants/clemencetassillym.png)
-![étudiant](/imagesprojets/Refonte-Site-Web/participants/mariedermywd.png)
-![étudiant](/imagesprojets/Refonte-Site-Web/participants/quentinmeunierm.png)
-![étudiant](/imagesprojets/Refonte-Site-Web/participants/saraproffitwd.png)
+![étudiant](/imagesprojets/Refonte-Site-Web/participants/clemencetassillym.png#center)
+![étudiant](/imagesprojets/Refonte-Site-Web/participants/mariedermywd.png#center)
+![étudiant](/imagesprojets/Refonte-Site-Web/participants/quentinmeunierm.png#center)
+![étudiant](/imagesprojets/Refonte-Site-Web/participants/saraproffitwd.png#center)

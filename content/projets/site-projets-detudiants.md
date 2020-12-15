@@ -10,14 +10,14 @@ student:
    
    
 category: ["cat1", "cat2"]   
-layout: projettest
+layout: ficheprojet
 ---
 
-![img](/imagesprojets/Site-Projets-Etudiants-NWS/images/spenws02.jpg)
+![img](/imagesprojets/Site-Projets-Etudiants-NWS/images/spenws02.jpg#firstimg)
 
 # Site projets d’étudiants de la Normandie Web School
 ## Ce site présente les projets réalisés par les étudiants de la Normandie Web School, pour les promouvoir auprès des entreprises.
-![img](/imagesprojets/Site-Projets-Etudiants-NWS/images/spenws01.jpg)
+![img](/imagesprojets/Site-Projets-Etudiants-NWS/images/spenws01.jpg#secondimg)
 Ce projet a été réalisé par des années 1 et un année 3.
 
 Il fait parti intégrante de la communication de la Normandie Web School. Ainsi, il permet aux étudiants de présenter et publier leurs projets. Pour qu’à tout moment les entreprises, les étudiants, les parents et les futurs étudiants puissent consulter les projets réalisés jusqu’à ce jour.
@@ -34,7 +34,7 @@ Pour autant, nous n’avions pas fini, en effet, une fois le site fonctionnel, i
 
 C’est avec toutes ces améliorations, que nous sommes fiers de vous présenter ce site.
 
-![étudiants](/imagesprojets/Site-Projets-Etudiants-NWS/participants/alexandreferetm.jpg)
-![étudiants](/imagesprojets/Site-Projets-Etudiants-NWS/participants/annagiraudwd.png)
-![étudiants](/imagesprojets/Site-Projets-Etudiants-NWS/participants/antoinepelcatm.jpg)
-![étudiants](/imagesprojets/Site-Projets-Etudiants-NWS/participants/denisfluteauxwd.png)
+![étudiants](/imagesprojets/Site-Projets-Etudiants-NWS/participants/alexandreferetm.jpg#center)
+![étudiants](/imagesprojets/Site-Projets-Etudiants-NWS/participants/annagiraudwd.png#center)
+![étudiants](/imagesprojets/Site-Projets-Etudiants-NWS/participants/antoinepelcatm.jpg#center)
+![étudiants](/imagesprojets/Site-Projets-Etudiants-NWS/participants/denisfluteauxwd.png#center)

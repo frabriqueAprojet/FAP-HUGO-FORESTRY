@@ -1,18 +1,36 @@
-{{ define "main" }}
-<div class="item active">
-   
-    <div class="row">
-        <div class="col-sm-18">
-            
-
-            <section class="container">
-                <div class="row">
-                    
-                   <p>hello world</p>
-                </div>
-            </section>
+{{define "main"}}
+<section class="section2">
+    <div class="container">
+        <div class="content2">
+            <p>{{.Content}}</p>        
+            <img class="cool" src="{{ with .Params.image }}{{ . }}{{ end }}" />           
+        </div>
+    </div>   
+</section>
+<!--<section class="section2">
+    <div class="container max-800px">
+        <div class="content2">
+            <div class="post-head">            
+             <p>{{.Title}}</p>
+              <title> {{.Site.Title}} </title>
+              <p>{{.}}</p>
+              {{ range .Site.Pages }}
+                {{ range .Pages }}
+                    <h2>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h2>                 
+                    <p>                      
+                    {{ . }}
+                    </p>
+                    <hr>
+                {{ end }}
+                {{ else }}
+                <p>aucun élément trouvé</p>
+                {{ end }}
+            {{ .Content }}
         </div>
     </div>
-       
-</div>
-{{ end }}
+</section>
+--->
+
+{{end}}

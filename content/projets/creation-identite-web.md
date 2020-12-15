@@ -8,10 +8,10 @@ student:
     - enora-guilleux
     - massane-napoleon
 category: ["cat1", "cat2"]   
-layout: projettest
+layout: ficheprojet
 ---
 
-![identité web](/imagesprojets/Creation-Identité-Web/images/ciw02.png)
+![identité web](/imagesprojets/Creation-Identité-Web/images/ciw02.png#firstimg)
 
 # Création identité web
 
@@ -21,7 +21,7 @@ Gabrielle Vanwynsberghe une cavalière de concours a proposé, il y a plusieurs 
 
 L’objectif était de mettre en place l’identité de l’entreprise au travers de différents supports, (site vitrine, page facebook, logotype, shooting photos, formation) afin d’améliorer la visibilité de son entreprise et mettre ainsi en avant son activité.
 
-![identité web](/imagesprojets/Creation-Identité-Web/images/ciw03.jpg)
+![identité web](/imagesprojets/Creation-Identité-Web/images/ciw03.jpg#secondimg)
 
 Pour ce faire quatre personnes aux spécialités différentes on choisit de mettre en valeur leurs compétences.
 
@@ -39,7 +39,7 @@ partage, ‘’le socle d’évolutions de nos compétences’’
 
 profession, ‘’la clé d’acquérir par passion une profession’’
 
-![identité web](/imagesprojets/Creation-Identité-Web/images/ciw01.jpg)
+![identité web](/imagesprojets/Creation-Identité-Web/images/ciw01.jpg#thirdimg)
 
 ![étudiant](/imagesprojets/Creation-Identité-Web/participants/enoraguilleuxwd.png#center)
 ![étudiant](/imagesprojets/Creation-Identité-Web/participants/manassenapoleonm.png#center)

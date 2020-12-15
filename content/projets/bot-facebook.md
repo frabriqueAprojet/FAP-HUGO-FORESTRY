@@ -7,14 +7,14 @@ student:
    
    
 category: ["cat1", "cat2"]   
-layout: projettest
+layout: ficheprojet
 ---
 
 ![facebook](/imagesprojets/Bot-Facebook-Messenger/images/bfmnws02.png#firstimg)
 
 # Bot Facebook Messenger pour la Normandie Web School{#h1}
 ## Création d’un bot Facebook-Messenger pour répondre aux différentes questions envoyé à l’école via Facebook Messenger.{#h2}
-![messenger](/imagesprojets/Bot-Facebook-Messenger/images/bfmnws01.jpeg#firstimg)
+![messenger](/imagesprojets/Bot-Facebook-Messenger/images/bfmnws01.jpeg#thirdimg)
 
 
 

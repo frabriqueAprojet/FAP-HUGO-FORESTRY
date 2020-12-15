@@ -9,7 +9,7 @@ student:
     - alan-favennec
     - fabien-labbe
 category: ["cat1", "cat2"]   
-layout: projettest
+layout: ficheprojet
 ---
 
 ![asgard](/imagesprojets/Boutique-Asgard/images/asgard01.png#firstimg)

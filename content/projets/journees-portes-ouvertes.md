@@ -10,7 +10,7 @@ student:
    
    
 category: ["cat1", "cat2"]   
-layout: projettest
+layout: ficheprojet
 ---
 
 ![seine inno](/imagesprojets/Journées-portes-ouvertes/images/jpo01.png#firstimg)
