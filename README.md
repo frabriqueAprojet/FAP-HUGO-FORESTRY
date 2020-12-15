@@ -5,8 +5,8 @@
 
 # screenshot de la page index
 
-![alt text](https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/index-screenshot/index-screenshot.png#screenshot){:height="700px" width="400px"}
-
+![alt text](https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/index-screenshot/index-screenshot.png)
+<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/index-screenshot/index-screenshot.png" width="100" height="100">
 # screenshot de la page projets
 
 ![alt text](https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/projets-screenshot/projets-screenshot.png)
