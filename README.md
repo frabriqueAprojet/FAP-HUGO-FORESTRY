@@ -30,6 +30,6 @@
 
 # version mobile
 
-Solarized dark             |  Solarized Ocean
+index          |  projets
 :-------------------------:|:-------------------------:
-<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/contact-screenshot/contact-screenshot.png" width="500" height="auto"> |  <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/contact-screenshot/contact-screenshot.png" width="500" height="auto">
+<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/index-screenshot/index-screenshot.png" width="500" height="auto"> |  <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/projets-screenshot/projets-screenshot.png" width="500" height="auto">
