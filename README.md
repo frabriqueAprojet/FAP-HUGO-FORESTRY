@@ -9,26 +9,21 @@
 
 # screenshot de la page projets
 
-![alt text](https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/projets-screenshot/projets-screenshot.png)
 <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/projets-screenshot/projets-screenshot.png" width="500" height="auto">
 
 # screenshot de la page fiche projet
 
-![alt text](https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/ficheprojet-screenshot/ficheprojet-screenshot.png)
 <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/ficheprojet-screenshot/ficheprojet-screenshot.png" width="500" height="auto">
 
 
 # screenshot de la page étudiants
 
-![alt text](https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/etudiants-screenshot/etudiants-screenshot.png)
 <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/etudiants-screenshot/etudiants-screenshot.png" width="500" height="auto">
 
 # screenshot de la page fiche étudiant
 
-![alt text](https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/ficheetudiant-screenshot/ficheetudiant-screenshot.png)
 <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/ficheetudiant-screenshot/ficheetudiant-screenshot.png" width="500" height="auto">
 
 # screenshot de la page contact
 
-![alt text](https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/contact-screenshot/contact-screenshot.png)
 <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/contact-screenshot/contact-screenshot.png" width="500" height="auto">
