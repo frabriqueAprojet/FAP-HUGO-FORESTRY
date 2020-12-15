@@ -3,27 +3,33 @@
 
 # Géneration du site static 
 
-# screenshot de la page index
+# screenshot Desktop
 
-<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/index-screenshot/index-screenshot.png" width="500" height="auto">
+index          |  projets
+:-------------------------:|:-------------------------:
+<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/index-screenshot/index-screenshot.png" width="500" height="auto"> |  <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/projets-screenshot/projets-screenshot.png" width="500" height="auto">
 
-# screenshot de la page projets
+fiche projet          |  page étudiants
+:-------------------------:|:-------------------------:
+<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/ficheprojet-screenshot/ficheprojet-screenshot.png" width="500" height="auto"> |  <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/etudiants-screenshot/etudiants-screenshot.png" width="500" height="auto">
 
-<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/projets-screenshot/projets-screenshot.png" width="500" height="auto">
-
-# screenshot de la page fiche projet
-
-<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/ficheprojet-screenshot/ficheprojet-screenshot.png" width="500" height="auto">
+fiche étudiant          |  page contact
+:-------------------------:|:-------------------------:
+<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/ficheetudiant-screenshot/ficheetudiant-screenshot.png" width="500" height="auto"> |  <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/contact-screenshot/contact-screenshot.png" width="500" height="auto">
 
 
-# screenshot de la page étudiants
 
-<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/etudiants-screenshot/etudiants-screenshot.png" width="500" height="auto">
+# version mobile
 
-# screenshot de la page fiche étudiant
+index          |  projets
+:-------------------------:|:-------------------------:
+<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/index-screenshot/index-mobile-screenshot.png" width="300" height="auto"> |  <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/projets-screenshot/projets-mobile-screenshot.png" width="300" height="auto">
 
-<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/ficheetudiant-screenshot/ficheetudiant-screenshot.png" width="500" height="auto">
+fiche projet          |  page étudiants
+:-------------------------:|:-------------------------:
+<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/ficheprojet-screenshot/ficheprojets-mobile-screenshot.png" width="300" height="auto"> |  <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/etudiants-screenshot/etudiants-mobile-screenshot.png" width="300" height="auto">
 
-# screenshot de la page contact
+fiche étudiant          |  page contact
+:-------------------------:|:-------------------------:
+<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/etudiants-screenshot/etudiants-mobile-screenshot.png" width="500" height="auto"> |  <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/contact-screenshot/contact-mobile-screenshot.png" width="300" height="auto">
 
-<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/contact-screenshot/contact-screenshot.png" width="500" height="auto">
