@@ -23,7 +23,7 @@ fiche étudiant          |  page contact
 
 index          |  projets
 :-------------------------:|:-------------------------:
-<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/index-screenshot/index-mobile-screenshot.png" width="400" height="auto"> |  <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/projets-screenshot/projets-mobile-screenshot.png" width="400" height="auto">
+<img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/index-screenshot/index-mobile-screenshot.png" width="100" height="auto"> |  <img src="https://github.com/frabriqueAprojet/FAP-HUGO-FORESTRY/blob/master/FAP-screenshot/projets-screenshot/projets-mobile-screenshot.png" width="100" height="auto">
 
 fiche projet          |  page étudiants
 :-------------------------:|:-------------------------:
