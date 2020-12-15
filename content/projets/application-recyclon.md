@@ -11,13 +11,13 @@ student:
     - sara proffit
     - myleine-kazadila  
 category: ["cat1", "cat2"]   
-layout: projettest
+layout: ficheprojet
 param:
     - 
     -
     -
     -
-    
+
 ---
 
 ![recyclon](/imagesprojets/Application-Recyclon/images/recyclon01.png#firstimg)

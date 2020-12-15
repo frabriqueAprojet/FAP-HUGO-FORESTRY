@@ -9,15 +9,15 @@ student:
     - alexandre-feret   
    
 category: ["cat1", "cat2"]   
-layout: projettest
+layout: ficheprojet
 ---
 
-![application](/imagesprojets/Recyclex-Application-de-Recyclage/images/recyclex01.jpg)
+![application](/imagesprojets/Recyclex-Application-de-Recyclage/images/recyclex01.jpg#firstimg)
 
 # Recyclex, l’application du recyclage (Projet fictif)
 ## Recyclex est une application offrant, à ses utilisateurs, une gamification autour du thème du recyclage et ses répercutions.
 
-![application](/imagesprojets/Recyclex-Application-de-Recyclage/images/recyclex02.png)
+![application](/imagesprojets/Recyclex-Application-de-Recyclage/images/recyclex02.png#secondimg)
 
 Nous avons réalisé ce projet fictif lors du cours de gamification avec Stéphane Arson. Il voulait que l’on réalise un flowchart et wireframe papier, puis un mock-up sur photoshop et un prototype sur invision. Tout cela pour une application ayant pour thème le recyclage avec de la gamification.
 
@@ -35,12 +35,12 @@ Aussi, un système de trophées est présent pour mettre en avant les réussites
 
 Ainsi, c’est avec ces concepts pour notre application, que nous pouvions enfin commencer le projet à proprement parlé. En commençant par le flowchart, avec lequel nous avons pu réfléchir à l’UI et l’UX de l’application, et le faire progresser pour pouvoir créer le wireframe et enfin le prototype.
 
-![application](/imagesprojets/Recyclex-Application-de-Recyclage/images/recyclex03.png)
+![application](/imagesprojets/Recyclex-Application-de-Recyclage/images/recyclex03.png#thirdimg#center)
 
-![étudiants](/imagesprojets/Recyclex-Application-de-Recyclage/participants/alexandreferetm.jpg)
+![étudiants](/imagesprojets/Recyclex-Application-de-Recyclage/participants/alexandreferetm.jpg#center)
 
-![étudiants](/imagesprojets/Recyclex-Application-de-Recyclage/participants/annagiraudwd.png)
+![étudiants](/imagesprojets/Recyclex-Application-de-Recyclage/participants/annagiraudwd.png#center)
 
-![étudiants](/imagesprojets/Recyclex-Application-de-Recyclage/participants/antoinepelcatm.jpg)
+![étudiants](/imagesprojets/Recyclex-Application-de-Recyclage/participants/antoinepelcatm.jpg#center)
 
-![étudiants](/imagesprojets/Recyclex-Application-de-Recyclage/participants/denisfluteauxwd.png)
+![étudiants](/imagesprojets/Recyclex-Application-de-Recyclage/participants/denisfluteauxwd.png#center)

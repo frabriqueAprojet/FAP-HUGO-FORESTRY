@@ -9,7 +9,7 @@ student:
    
    
 category: ["cat1", "cat2"]   
-layout: projettest
+layout: ficheprojet
 ---
 
 ![Blog NWS](/imagesprojets/Blog-NWS/images/blognws01.png#firtsimg)
@@ -21,7 +21,7 @@ layout: projettest
 Nous étions en charges de rédiger des articles et publier ceux des étudiants.  Le thème des articles se repose sur le travail des 1ères années, réalisé pendant les heures de cours, ainsi que les travaux de groupes pendant les semaines de projets clients. Ce blog était destiné à intégrer le site de l’école (le directeur était donc notre client). 
 Nous avions tous jusqu’à début mars, à compter de fin novembre pour finir les projets clients. L’utilisation d’un CMS était pratique et rapide, notre groupe avait rencontré quelques problèmes : sur l’affichage de certains visuels. Grâce au Directeur des Systèmes d’Information (Jean-Claude Torrel) ce problème a été résolu ! 
 
-![Blog NWS](/imagesprojets/Blog-NWS/images/blognws02.jpg#secondimg)
+![Blog NWS](/imagesprojets/Blog-NWS/images/blognws02.jpg#thirdimg)
 
 
 

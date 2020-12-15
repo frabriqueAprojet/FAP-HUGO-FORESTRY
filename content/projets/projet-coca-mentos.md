@@ -10,16 +10,16 @@ student:
     - thomas-delatour
    
 category: ["cat1", "cat2"]   
-layout: projettest
+layout: ficheprojet
 ---
 
-![projet landing](/imagesprojets/Coca-Mentos-Matcha/images/cmm01.png)
+![projet landing](/imagesprojets/Coca-Mentos-Matcha/images/cmm01.png#firstimg)
 
 # Coca Mentos Matcha (Projet fictif)
 
 ## Le but de ce projet d’initation au marketing fut d’organiser toute une analyse marketing autour d’un produit de notre création, dont les ingrédients étaient la boisson Coca Cola et la confiserie de la marque Mentos.
 
-![projet landing](/imagesprojets/Coca-Mentos-Matcha/images/cmm02.png)
+![projet landing](/imagesprojets/Coca-Mentos-Matcha/images/cmm02.png#secondimg)
 
 
 Notre intervenant, Sylvain Gueraiche, nous a d’abord enseigné les différentes analyses marketing à effectuer avant la commercialisation d’un produit. Initiation notamment à l’analyse Pestel qui permet d’étudier l’environnement macro-économique d’un produit.
@@ -30,10 +30,10 @@ Le matcha est une poudre fine de couleur verte, moulue à partir de feuille de t
 
 Afin de mener à bien la commercialisation de notre produit, nous avons effectués toutes les analyses enseignées puis réalisé une affiche.
 
-![projet landing](/imagesprojets/Coca-Mentos-Matcha/images/cmm03.jpg)
+![projet landing](/imagesprojets/Coca-Mentos-Matcha/images/cmm03.jpg#thirdimg)
 
-![étudiant](/imagesprojets/Coca-Mentos-Matcha/participants/constantpaulinwd.png)
-![étudiant](/imagesprojets/Coca-Mentos-Matcha/participants/myleinekazadilam.png)
-![étudiant](/imagesprojets/Coca-Mentos-Matcha/participants/ninahuetwd.jpg)
-![étudiant](/imagesprojets/Coca-Mentos-Matcha/participants/paulmartinm.png)
-![étudiant](/imagesprojets/Coca-Mentos-Matcha/participants/thomasdelatourm.png)
+![étudiant](/imagesprojets/Coca-Mentos-Matcha/participants/constantpaulinwd.png#center)
+![étudiant](/imagesprojets/Coca-Mentos-Matcha/participants/myleinekazadilam.png#center)
+![étudiant](/imagesprojets/Coca-Mentos-Matcha/participants/ninahuetwd.jpg#center)
+![étudiant](/imagesprojets/Coca-Mentos-Matcha/participants/paulmartinm.png#center)
+![étudiant](/imagesprojets/Coca-Mentos-Matcha/participants/thomasdelatourm.png#center)

@@ -7,7 +7,7 @@ student:
     - rachid-barr
     - yanis-latrous
 category: ["cat1", "cat2"]   
-layout: projettest
+layout: ficheprojet
 ---
 
 ![ Aux Coul’Eure du Cheval](/imagesprojets/Au-Coul_Eure-du-Cheval/images/couleure01.png#firstimg)
@@ -22,9 +22,9 @@ Les consignes étaient de créer un site Web pour la ferme “Aux Coul’Eure Du
 
 Aujourd’hui le site Web Aux Coul’Eure du Cheval est opérationnel. Voir le site
 
-![ Aux Coul’Eure du Cheval](/imagesprojets/Au-Coul_Eure-du-Cheval/images/couleure02.png)
+![ Aux Coul’Eure du Cheval](/imagesprojets/Au-Coul_Eure-du-Cheval/images/couleure02.png#thirdimg)
 
-## Etudiants ayant participées aux projets: {#h2} 
+
 
 ![ étudiant](/imagesprojets/Au-Coul_Eure-du-Cheval/participants/rachidbarrd.jpg#center)
 ![ étudiant](/imagesprojets/Au-Coul_Eure-du-Cheval/participants/saraproffitwd.png#center)

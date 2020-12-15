@@ -10,10 +10,10 @@ student:
     - quentin-meunier
    
 category: ["cat1", "cat2"]   
-layout: projettest
+layout: ficheprojet
 ---
 
-![ecoboat](/imagesprojets/EcoBoat/images/eb01.png)
+![ecoboat](/imagesprojets/EcoBoat/images/eb01.png#firstimg)
 
 # EcoBoat (Projet fictif){#h1}
 

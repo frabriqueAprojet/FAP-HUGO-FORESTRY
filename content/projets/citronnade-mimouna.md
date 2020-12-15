@@ -8,9 +8,9 @@ student:
     - lilian-lemoine
     - alexandra-tuboeuf
 category: ["cat1", "cat2"]   
-layout: projettest
+layout: ficheprojet
 ---
-![citronnade](/imagesprojets/Citronnade-mimouna/images/mimouna01.png)
+![citronnade](/imagesprojets/Citronnade-Mimouna/images/mimouna01.png#firstimg)
 
 # Citronnade Mimouna
 
@@ -19,7 +19,7 @@ layout: projettest
 
 Notre groupe était en charge de concevoir le site web de la citronnade Mimouna pour Nabila Namoune, la créatrice du produit. L’objectif du site était de présenter à la fois l’histoire de Mimouna et le produit en lui-même ainsi que de permettre l’achat de bouteilles en ligne : il s’agit donc d’un site e-commerce.
 
-![citronnade](/imagesprojets/Citronnade-mimouna/images/mimouna02.jpg)
+![citronnade](/imagesprojets/Citronnade-Mimouna/images/mimouna02.jpg#secondimg)
 
 Nous avons d’abord pensé à réaliser un site one page avec un module de vente puisque nous considérions la citronnade comme un seul et unique produit. Or, la vente à l’unité est complétée par des ventes en packs considérés comme des produits. Nous avons donc entièrement recommencé la conception du site plusieurs semaines après le début du projet, ce qui a permis de nous débloquer puisque nous avions des difficultés à construire cette page unique.
 
@@ -30,7 +30,7 @@ Avec la cliente, nous avons fixé les éléments qui devaient être présents su
 Nous avons pu terminer le site en moins de trois semaines de travail consécutives et le rendre accessible aux internautes à cette adresse. La cliente ne souhaitait pas une activation immédiate de la boutique et n’a donc plus qu’à la configurer pour lancer les ventes en ligne.
 
 
-![étudiant](/imagesprojets/Citronnade-mimouna/participants/alexandretuboeufd.jpg#center)
-![étudiant](/imagesprojets/Citronnade-mimouna/participants/aymeahmedm.jpg#center)
-![étudiant](/imagesprojets/Citronnade-mimouna/participants/lilianlemoined.jpg#center)
-![étudiant](/imagesprojets/Citronnade-mimouna/participants/nathanbouralywd.jpg#center)
+![étudiant](/imagesprojets/Citronnade-Mimouna/participants/alexandretuboeufd.jpg#center)
+![étudiant](/imagesprojets/Citronnade-Mimouna/participants/aymeahmedm.jpg#center)
+![étudiant](/imagesprojets/Citronnade-Mimouna/participants/lilianlemoined.jpg#center)
+![étudiant](/imagesprojets/Citronnade-Mimouna/participants/nathanbouralywd.jpg#center)

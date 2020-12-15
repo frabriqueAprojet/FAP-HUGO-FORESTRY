@@ -7,11 +7,11 @@ student:
     - alexandre-feret
     - denis-fluteaux
 category: ["cat1", "cat2"]   
-layout: projettest
+layout: ficheprojet
 ---
 
 
-![Locabanane](/imagesprojets/Loc-a-Banane/images/banane02.png)
+![Locabanane](/imagesprojets/Loc-a-Banane/images/banane02.png#firstimg)
 ## Loc’à’banane est un projet fictif, pour la création d’une identité visuelle autour de location de sacs bananes.
 
 
@@ -33,9 +33,9 @@ Faire un mock-up d’une affiche publicitaire
 Faire un mock-up d’une voiture
 Créer la page d’accueil du site
 
-![Locabanane](/imagesprojets/Loc-a-Banane/images/banane03.png)
+![Locabanane](/imagesprojets/Loc-a-Banane/images/banane03.png#thirdimg)
 
 
-![photo étudiants](/imagesprojets/Loc-a-Banane/participants/alexandreferetm.jpg)
-![photo étudiants](/imagesprojets/Loc-a-Banane/participants/annagiraudwd.png)
-![photo étudiants](/imagesprojets/Loc-a-Banane/participants/denisfluteauxwd.png)
+![photo étudiants](/imagesprojets/Loc-a-Banane/participants/alexandreferetm.jpg#center)
+![photo étudiants](/imagesprojets/Loc-a-Banane/participants/annagiraudwd.png#center)
+![photo étudiants](/imagesprojets/Loc-a-Banane/participants/denisfluteauxwd.png#center)

@@ -8,17 +8,10 @@ student:
     - alan-favennec
     - fabien-labbe
 category: ["cat1", "cat2"]   
-layout: projettes
-student:
-- alan-pasdeloup
-- bilal-haouchine
-- alan-favennec
-- fabien-labbe
-category:
-- cat1
-- cat2
-layouts: projettest
-draft: true
+
+layout: ficheprojet
+---
+
 
 
 ---
